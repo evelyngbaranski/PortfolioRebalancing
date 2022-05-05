@@ -25,7 +25,7 @@ import matplotlib.pyplot as plt
 
 
 #importing from task 9 for Monte Carlo simulator
-from a9task1 import MCStockSimulator
+from MonteCarloSimulation import MCStockSimulator
 
 
 
